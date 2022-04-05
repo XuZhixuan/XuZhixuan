@@ -24,6 +24,9 @@ Gameplayer, Student.
 
 ### 游戏 🎮 Game
 
+<details>
+<summary> 这里有很多我喜欢的游戏 </summary>
+
 * RedAlert2, RedAlert3, [RA3 Corona Mod](https://cor-games.com/).
 * The Sims 4, City:Skylines, Euro Truck Simulator 2, Kerbel Space Program,
 * Stellaris, Sid Meries's Civiliztion VI, Heart of Iron 4.
@@ -31,6 +34,8 @@ Gameplayer, Student.
 * Don't Starve (Together), Oxygen Not Included.
 * World of Worships, World of Tanks.
 * Clash of Clans.
+
+</details>
 
 ### 联系我 📠 Contact Me
 
