@@ -22,6 +22,16 @@ Gameplayer, Student.
 
 <!-- ### 学习 📚 Study -->
 
+### 游戏 🎮 Game
+
+* RedAlert2, RedAlert3, [RA3 Corona Mod](https://cor-games.com/).
+* The Sims 4, City:Skylines, Euro Truck Simulator 2, Kerbel Space Program,
+* Stellaris, Sid Meries's Civiliztion VI, Heart of Iron 4.
+* Red Dead: Redemption II, Grand Theft Auto V, Fallout 4, Metro Exodus, The Witcher 3, Raise of The Tomb Raider.
+* Don't Starve (Together), Oxygen Not Included.
+* World of Worships, World of Tanks.
+* Clash of Clans.
+
 ### 联系我 📠 Contact Me
 
 * 仓库里提出 Issue 和讨论  
