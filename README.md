@@ -10,7 +10,7 @@ Gameplayer, Student.
 * 中文（简体，中国大陆） Chinese(Simplified, Chinese Mainland)
 * 英语（中式） English(Chinglish)
 
-### 已学会的能力 💡 Skill learned
+### 已安装的特性 💡 Features installed
 
 * 编程语言 💻 Programming: PHP(Laravel), HTML, JavaScript(Vue.js), C++, Python, Shell.
 * 工具 🔧 Tools: MySQL, Linux.
