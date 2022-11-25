@@ -7,7 +7,7 @@ Gameplayer, Student.
 
 ### 已安装的语言 🌏 Language installed
 
-* 中文（简体，中国大陆） Chinese(Simplified, Chinese Mainland)
+* 中文（简体，中国大陆） Chinese(Simplified, Mainland China)
 * 英语（中式） English(Chinglish)
 
 ### 已安装的特性 💡 Features installed
